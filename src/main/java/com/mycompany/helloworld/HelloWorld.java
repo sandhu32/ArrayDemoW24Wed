@@ -9,12 +9,12 @@ package com.mycompany.helloworld;
  * @author Rajpreet
  */
 
+
+public class HelloWorld {
 private String Address
     public String getAddress() {
     return Address;
     }
-public class HelloWorld {
-
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
