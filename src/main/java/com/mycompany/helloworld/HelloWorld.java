@@ -8,6 +8,11 @@ package com.mycompany.helloworld;
  * Hello By Rajpreet
  * @author Rajpreet
  */
+
+private String Address
+    public String getAddress() {
+    return Address;
+    }
 public class HelloWorld {
 
     public static void main(String[] args) {
