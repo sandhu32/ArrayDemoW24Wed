@@ -10,7 +10,7 @@ package com.mycompany.helloworld;
  */
 
 // fetch 
-public class HelloWorld {
+public class HelloWorld {   
 private String Address;
     public String getAddress() {
     return Address;
