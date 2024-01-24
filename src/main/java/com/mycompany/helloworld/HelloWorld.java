@@ -11,7 +11,7 @@ package com.mycompany.helloworld;
 
 
 public class HelloWorld {
-private String Address
+private String Address;
     public String getAddress() {
     return Address;
     }
